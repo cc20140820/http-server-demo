@@ -1,7 +1,7 @@
-const http = require("http")
-const url = require("url")
-const path = require("path")
-const fs = require("fs")
+import * as http from "http"
+import * as url from "url"
+import * as path from "path"
+import * as fs from "fs"
 
 const PORT = 3000
 
